@@ -12,7 +12,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-
+//run this file for display to show up
 public class DrawPane extends JPanel{
 	public static JFrame frame = new JFrame("Sudoku");
 	
